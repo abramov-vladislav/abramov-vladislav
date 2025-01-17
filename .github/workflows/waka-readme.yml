@@ -2,13 +2,16 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Запуск каждый день
+    - cron: "0 0 * * *"  # Запуск каждый день
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-22.04
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
       - name: Waka Readme
         uses: athul/waka-readme@master
         with:
