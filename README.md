@@ -1,8 +1,11 @@
 ## Hi there 👋
 ![Harbertw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harbertw&theme=dark&show_icons=true)
 
+### 📊 Weekly Development Breakdown
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 
 <!--
 **harbertw/harbertw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
