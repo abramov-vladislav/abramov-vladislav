@@ -1,5 +1,5 @@
 ## Hi there 👋
-![harbertw's GitHub stats](https://github-readme-stats.vercel.app/api?username=harbertw&theme=dark&show_icons=true)
+![Harbertw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harbertw&theme=dark&show_icons=true)
 <!--
 **harbertw/harbertw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### 📊 Weekly Development Breakdown
