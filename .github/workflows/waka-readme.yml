@@ -2,17 +2,18 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Запуск каждый день
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Запуск каждый день в 00:00 UTC
+  workflow_dispatch:  # Также можно вручную запустить workflow
 
 jobs:
   update-readme:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-22.04  # Используем ubuntu-22.04 (или ubuntu-latest)
+    
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2  # Получаем репозиторий для работы
 
       - name: Waka Readme
-        uses: athul/waka-readme@master
+        uses: athul/waka-readme@main  # Используем ветку main вместо master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  # API ключ из Secrets
