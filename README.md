@@ -4,6 +4,23 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+name: Update WakaTime Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Ежедневное обновление
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+
 <!--
 **harbertw/harbertw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### 📊 Weekly Development Breakdown
