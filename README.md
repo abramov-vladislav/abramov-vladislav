@@ -6,7 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java   13 mins         █████████████████████████   100.00 %
+Java                  38 mins         ██████████▓░░░░░░░░░░░░░░   42.33 %
+XML                   27 mins         ███████▓░░░░░░░░░░░░░░░░░   30.41 %
+GitIgnore file        9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+Java Properties       7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
+HTTP Request          6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
 ```
 
 <!--END_SECTION:waka-->
