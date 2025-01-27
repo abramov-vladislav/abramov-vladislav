@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Harbertw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harbertw&theme=dark&show_icons=true)
+![abramov-vladislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abramov-vladislav&theme=dark&show_icons=true)
 
 ### 📊 Weekly Development Breakdown
 
