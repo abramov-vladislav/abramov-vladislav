@@ -6,11 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              4 hrs 39 mins   ████████████████████▒░░░░   80.77 %
-Java Properties   50 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
-Properties        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-SQL               5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-PlantUML file     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Java              7 hrs 22 mins   ███████████████████████░░   92.31 %
+Java Properties   27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+Properties        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+PlantUML file     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
