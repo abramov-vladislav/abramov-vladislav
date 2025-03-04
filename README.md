@@ -6,11 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              11 hrs 54 mins  █████████████████████████   99.80 %
-Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Java              14 hrs 30 mins  █████████████████████████   99.81 %
+Groovy            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 Gradle            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
