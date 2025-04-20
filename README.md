@@ -1,5 +1,29 @@
 ## Hi there 👋
-![abramov-vladislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abramov-vladislav&theme=dark&show_icons=true)
+
+[![abramov-vladislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abramov-vladislav&theme=dark&show_icons=true)](https://github.com/abramov-vladislav)
+
+### About Me
+
+*   Software Engineer | Java Developer
+*   Passionate about clean code and scalable systems.
+*   Always learning!
+
+### 🛠️ Technologies & Tools
+
+*   **Languages:** Java, SQL, Groovy, YAML, Markdown
+*   **Frameworks:** Spring Boot
+*   **Databases:** PostgreSQL
+*   **Tools:** IntelliJ IDEA, Git, Maven
+
+### 📊 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abramov-vladislav&layout=compact&theme=dark)](https://github.com/abramov-vladislav)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abramov-vladislav&theme=dark)](https://github.com/abramov-vladislav)
+
+### 📅 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
 
 ### 📊 Weekly Development Breakdown
 
