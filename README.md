@@ -35,8 +35,4 @@ Groovy             24 mins         ▒░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### 📈 More stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abramov-vladislav&layout=compact&theme=dark)](https://github.com/abramov-vladislav)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abramov-vladislav&theme=dark)](https://github.com/abramov-vladislav)
-
+[![Metrics](https://metrics.lecoq.io/username?template=classic&languages=1&languages.colors=github&languages.threshold=0%25)](https://github.com/lowlighter/metrics)
