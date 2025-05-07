@@ -38,7 +38,6 @@
 ### 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abramov-vladislav&layout=compact&theme=dark)](https://github.com/abramov-vladislav)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abramov-vladislav&theme=dark)](https://github.com/abramov-vladislav)
 
 ---
 
