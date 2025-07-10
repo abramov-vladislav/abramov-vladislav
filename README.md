@@ -46,9 +46,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other            48 mins         ██████████████████████░░░   88.01 %
-Kotlin           5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
-GitIgnore file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Other            1 hr 21 mins    ███████████████████████░░   92.44 %
+Kotlin           5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
