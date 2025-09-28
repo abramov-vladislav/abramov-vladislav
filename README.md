@@ -46,7 +46,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other        17 mins         ███████████░░░░░░░░░░░░░░   44.49 %
+XML          11 mins         ███████▓░░░░░░░░░░░░░░░░░   30.03 %
+Java         5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
+Markdown     4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
