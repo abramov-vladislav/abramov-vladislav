@@ -6,7 +6,7 @@
 
 ### About Me
 
-- Mobile AQA (Appium, Charles Proxy)
+- Mobile AQA
 - Building AI agents and intelligent testing solutions
 - Constantly exploring new technologies and tools
 
