@@ -22,7 +22,7 @@
   <!-- Spring -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" title="Spring"/>
   <!-- Appium --> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appium/appium-original.svg" width="40" height="40" title="Appium"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appium/appium-original.svg" width="40" height="40" title="Appium"/>
   <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
   <!-- Git -->
@@ -30,7 +30,7 @@
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
   <!-- Charles Proxy --> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/charles/charles-original.svg" width="40" height="40" title="Charles Proxy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/charles/charles-original.svg" width="40" height="40" title="Charles Proxy"/>
   <!-- Postman -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" title="Postman"/>
   <!-- Maven -->
