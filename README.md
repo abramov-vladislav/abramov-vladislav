@@ -6,9 +6,9 @@
 
 ### About Me
 
-- Software Engineer | Java Developer
-- Passionate about clean code and scalable systems
-- Always learning!
+- Mobile AQA (Appium, Charles Proxy)
+- Building AI agents and intelligent testing solutions
+- Constantly exploring new technologies and tools
 
 ---
 
