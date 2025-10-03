@@ -15,26 +15,18 @@
 ## 🛠️ Technologies & Tools
 
 <p>
-  <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java"/>
-  <!-- Kotlin --> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" title="Kotlin"/>
-  <!-- Spring -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" title="Spring"/>
-  <!-- Appium --> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appium/appium-original.svg" width="40" height="40" title="Appium"/>
-  <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
-  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
-  <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
-  <!-- Charles Proxy --> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/charles/charles-original.svg" width="40" height="40" title="Charles Proxy"/>
-  <!-- Postman -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" title="Postman"/>
-  <!-- Maven -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40" title="Maven"/>
+  <!-- Appium -->
+  <img src="https://raw.githubusercontent.com/appium/appium/master/docs/assets/images/appium-logo-horiz.png" width="40" height="40" title="Appium" style="background-color: white; padding: 2px;"/>
+  <!-- Charles Proxy -->
+  <img src="https://www.charlesproxy.com/static/img/charles.svg" width="40" height="40" title="Charles Proxy"/>
 </p>
 
 ---
