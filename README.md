@@ -1,7 +1,5 @@
 ## Hi there 👋
 
----
-
 ### About Me
 
 - Android AQA
