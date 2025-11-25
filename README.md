@@ -33,13 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40" title="Maven"/>
 </p>
 
-
----
-
-### 📊 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abramov-vladislav&layout=compact&theme=dark)](https://github.com/abramov-vladislav)
-
 ---
 
 ### 📅 Weekly Development Breakdown
