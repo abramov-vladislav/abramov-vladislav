@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-[![abramov-vladislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abramov-vladislav&theme=dark&show_icons=true)](https://github.com/abramov-vladislav)
-
 ---
 
 ### About Me
 
-- Mobile AQA
+- Android AQA
 - Building AI agents and intelligent testing solutions
 - Constantly exploring new technologies and tools
 
