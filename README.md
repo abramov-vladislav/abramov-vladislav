@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Vlad.
 
-- Android AQA
+- Android 
 - Building AI agents and intelligent testing solutions
 - Constantly exploring new technologies and tools
 
