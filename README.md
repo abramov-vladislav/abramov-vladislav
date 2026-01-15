@@ -24,8 +24,9 @@
 
 ---
 
-## 📊 My GitHub Stats
-![My Metrics](github-metrics.svg)
+## 📊 Мои Языки Программирования
+![Most Used Languages](github-languages.svg)
+
 ---
 
 ### 📅 Weekly Development Breakdown
