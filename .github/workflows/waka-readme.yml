@@ -1,19 +1,22 @@
-name: Waka Readme
-
+name: Metrics
 on:
-  schedule:
-    - cron: "0 0 * * *"  # Запуск каждый день в 00:00 UTC
-  workflow_dispatch:  # Также можно вручную запустить workflow
+  schedule: [{cron: "0 6 * * *"}]
+  workflow_dispatch: # Запуск только вручную для теста
+  push: {branches: ["master", "main"]}
 
 jobs:
-  update-readme:
-    runs-on: ubuntu-22.04  
-    
+  github-metrics:
+    runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2  
-
-      - name: Waka Readme
-        uses: athul/waka-readme@master  
+      - uses: lowlighter/metrics@latest
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: abramov-vladislav
+          template: classic
+          base: ""
+          config_timezone: Europe/Moscow
+          
+          # Оставляем только языки, без глубокого анализа (так быстрее)
+          plugin_languages: yes
+          plugin_languages_ignored: html, css # Игнорируем разметку
+          plugin_languages_limit: 8
