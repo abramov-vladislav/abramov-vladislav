@@ -24,11 +24,6 @@
 
 ---
 
-## 📊 Мои Языки Программирования
-![Most Used Languages](github-languages.svg)
-
----
-
 ### 📅 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
