@@ -7,13 +7,13 @@ on:
 
 jobs:
   update-readme:
-    runs-on: ubuntu-22.04  # Используем ubuntu-22.04 (или ubuntu-latest)
+    runs-on: ubuntu-22.04  
     
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2  # Получаем репозиторий для работы
+        uses: actions/checkout@v2  
 
       - name: Waka Readme
-        uses: athul/waka-readme@master  # Указываем ветку master вместо main
+        uses: athul/waka-readme@master  
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  # API ключ из Secrets
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  
