@@ -24,6 +24,10 @@
 
 ---
 
+## 📊 My GitHub Stats
+![My Metrics](github-metrics.svg)
+---
+
 ### 📅 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
@@ -37,4 +41,3 @@ Markdown            55 mins         █▒░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
