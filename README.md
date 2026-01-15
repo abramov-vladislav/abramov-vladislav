@@ -1,8 +1,9 @@
-## 👋 Hello! I'm Vlad.
+## 👋 Всем привет, я Влад!
 
-- Android 
-- Building AI agents and intelligent testing solutions
-- Constantly exploring new technologies and tools
+Стек:
+- kotlin
+- python
+- bash
 
 ---
 
@@ -17,10 +18,6 @@
   <img src="https://www.svgrepo.com/show/452155/android.svg" width="40" height="40" title="Android"/>
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
-  <!-- Spring -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" title="Spring"/>
-  <!-- PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
 </p>
