@@ -3,7 +3,7 @@
 Стек:
 - kotlin
 - python
-- bash
+- linux
 
 ---
 
