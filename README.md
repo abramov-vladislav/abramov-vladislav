@@ -29,11 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            3 hrs 2 mins          ██████████████████░░░░░░░   71.99 %
-Gherkin           1 hr 5 mins           ██████▒░░░░░░░░░░░░░░░░░░   25.77 %
-JSON              2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Groovy            1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Java              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
