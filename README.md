@@ -29,7 +29,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin       1 min                 ██████████████████▓░░░░░░   74.92 %
+Properties   0 secs                ██████▒░░░░░░░░░░░░░░░░░░   25.07 %
+Gherkin      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
