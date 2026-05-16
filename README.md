@@ -29,11 +29,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Gherkin           7 hrs 43 mins         ██████████▓░░░░░░░░░░░░░░   42.76 %
-Kotlin            7 hrs 2 mins          █████████▓░░░░░░░░░░░░░░░   38.92 %
-Properties        1 hr 5 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-Other             1 hr 3 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-Java Properties   42 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Gherkin           6 hrs 50 mins         ██████████▒░░░░░░░░░░░░░░   41.37 %
+Kotlin            6 hrs 24 mins         █████████▓░░░░░░░░░░░░░░░   38.82 %
+Other             1 hr 13 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+Properties        58 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+Java Properties   39 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
 ```
 
 <!--END_SECTION:waka-->
