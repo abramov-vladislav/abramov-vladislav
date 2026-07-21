@@ -29,11 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   12 mins               ███████████████████████░░   92.24 %
-Kotlin     0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-Gherkin    0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-Text       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-JSON       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
