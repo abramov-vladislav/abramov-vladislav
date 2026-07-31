@@ -29,7 +29,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Groovy            1 hr 24 mins          ██████████▓░░░░░░░░░░░░░░   43.09 %
+Kotlin            1 hr 13 mins          █████████▒░░░░░░░░░░░░░░░   37.80 %
+Gherkin           27 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
+Properties        6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Java Properties   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 ```
 
 <!--END_SECTION:waka-->
